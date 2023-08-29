@@ -1,0 +1,181 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.dvl{
+    position: sticky;
+    top: 0;
+}
+.contact{
+    position: sticky;
+    top: 0;
+}
+
+.border-check{
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+.navbar{
+    height: 2rem;
+    width: auto;
+    background-color: black;
+    display: flex;
+    color: white;
+    justify-content: space-between;
+    padding-left: 4rem;
+    padding-top: 2rem;
+    padding-right: 4rem;
+    position: sticky;
+    top: 0;
+}
+
+.main-section{
+    height: 40rem;
+    width: auto;
+    display: flex;
+    background-color: black;
+}
+
+.text-container{
+text-align: center;
+color: aliceblue;
+}
+.front{
+    color: white;
+    font: 25px sans-serif;
+margin-top: 6rem;
+margin-left: 1rem;
+}
+.text{
+    color: white;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 1.5rem;
+    font: 16px sans-serif;
+}
+.t2{
+    color: purple;
+    font: 20px sans-serif;
+    padding-top: 5rem;
+    padding-right: 16rem;
+}
+.img-container{
+    
+   padding: 4rem 6rem 15rem 14rem;
+   justify-content: center;
+   
+    rotate: 350deg;
+}
+
+/**------------2nd section-----------**/
+.main-section2{
+    display: flex;
+    height: 48rem;
+    width: auto;
+    background-color: black;
+}
+.section-1{
+    color: white;
+    font-weight: 40px ;
+    justify-content: space-between;
+}
+ .subham{
+    color: white;
+    padding: 20rem 3rem 20rem 6rem;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 27px ;
+ }   
+.section-2{
+    color: white;
+    padding-left: 2rem;
+    padding-bottom: 3rem;
+    padding-top: 20rem;
+    padding-right: 2rem;
+    font-size: 15px;
+   
+}
+.hero-section{
+    padding-top: 4rem;
+    height: 40rem;
+    width: auto;
+    background-color: black;
+} 
+.tex{
+    color: white;
+    margin-bottom: 2rem;
+    margin-left: 35rem;
+    margin-top: 2rem;
+    font-size: 18px;
+    padding-right: 4rem;
+}
+.a{
+    color: white;
+    font-size: 20px;
+    margin-left: 4rem;
+  }
+  .skill{
+    color: white;
+    font-size: 40px;
+    padding-right: 25rem;
+  } 
+.visit{
+    color: white;
+    padding-right: 5rem;
+    margin-left: 44rem;
+    font-size: 30px sans-serif;
+}   
+.logo-1{
+    padding-right: 3rem;
+  display: flex;
+  margin-top: 10rem;
+  margin-left: 15rem;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.logo-2{
+display: flex;
+margin-right: 10rem;
+justify-content: space-between;
+margin-top: 2rem;
+margin-left: 22rem;
+
+}
+.footer-section{
+    padding: 30rem 30rem 13rem 30rem ;
+    height: 9rem;
+    width: auto;
+    background-color:black;
+}
+.port{
+    color: white;
+ font: 50px sans-serif;
+}
+.built{
+    color: white;
+    font: 19px sans-serif;
+    justify-content: space-between;
+}
+.last-section{
+    display: flex;
+    height: 47rem;
+    width: auto;
+    background-color:black;
+}
+.logo-3{
+    padding: 14rem 1rem 18rem 16rem;
+    background-color: black;
+    rotate: 360deg;
+}
+.last-para{
+    color: white;
+    padding: 19rem 22rem 28rem 15rem;
+    font: 19px sans-serif;
+    
+}
+.l1{
+    color: white;
+    font: 25px sans-serif;
+    padding-top: 1rem;
+}
+   
